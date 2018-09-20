@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.interflora.es	TRUE	/	FALSE	1999999999	frontend_cid	bx8yzRXTFwPP2XXk
+www.interflora.es	TRUE	/	FALSE	1999999999	frontend	8550946e2fa54c8f44dbd2f8f40fe20c
+www.interflora.es	TRUE	/	FALSE	1999999999	fpc-primary	deleted
+
